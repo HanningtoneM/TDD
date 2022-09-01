@@ -22,6 +22,5 @@ describe 'Solver' do
       expect(@solver.factorial(-1)).to eq 'Error'
     end
   end
-
   
 end
